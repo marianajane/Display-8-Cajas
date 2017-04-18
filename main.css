@@ -1,0 +1,36 @@
+
+.bloque {
+	display: block;
+	border: 1px solid #7E7E7E;
+	background: #CBC3C9;
+	width: 60px;
+	height: 60px;
+	margin-top: 10px;
+	
+}
+
+.contenedor {
+	width: 215px;
+	height: 80px;
+	margin-top: 10px;
+}
+
+.inside {
+	display: inline-block;
+	float-right;
+	border: 1px solid #7E7E7E;
+	background: #CBC3C9;
+	width: 60px;
+	height: 60px;
+	margin-left: 5px;
+	margin-top: 10px;
+}
+
+.join {
+	display: inline-block;
+	border: 1px solid #7E7E7E;
+	background: #CBC3C9;
+	width: 60px;
+	height: 60px;
+	margin-top: 10px;
+}
